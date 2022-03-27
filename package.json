@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Darko Dimovski's Web Portfolio",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next-build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Darko Dimovski",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.5",
+    "@chakra-ui/react": "^1.8.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@react-three/drei": "^8.10.5",
+    "@react-three/fiber": "^7.0.26",
+    "@react-three/gltfjsx": "^4.3.4",
+    "framer-motion": "^6.2.6",
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "three": "^0.137.5"
+  },
+  "devDependencies": {
+    "eslint-config-next": "^12.0.10",
+    "prettier": "^2.5.1"
+  }
+}
