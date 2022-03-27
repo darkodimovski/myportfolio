@@ -26,6 +26,10 @@ const Works = () => (
                 <WorkGridItem id='cv' title='Curiculum Vitae' thumbnail={thumbnail}>
                 </WorkGridItem>
             </Section>
+            <Section>
+                <WorkGridItem id='portfolio' title='my-portfolio' thumbnail={thumbnail}>
+                </WorkGridItem>
+            </Section>
             </SimpleGrid>
         </Container>
     </Layout>
