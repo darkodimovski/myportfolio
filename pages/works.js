@@ -23,11 +23,15 @@ const Works = () => (
                 </WorkGridItem>
             </Section>
             <Section>
-                <WorkGridItem id='cv' title='Curiculum Vitae' thumbnail={thumbnail}>
+                <WorkGridItem id='cv' title='Curriculum Vitae' thumbnail={thumbnail}>
                 </WorkGridItem>
             </Section>
             <Section>
                 <WorkGridItem id='portfolio' title='my-portfolio' thumbnail={thumbnail}>
+                </WorkGridItem>
+            </Section>
+            <Section>
+                <WorkGridItem id='notesApp' title='Notes App' thumbnail={thumbnail}>
                 </WorkGridItem>
             </Section>
             </SimpleGrid>
