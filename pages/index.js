@@ -37,7 +37,7 @@ const Home = () => {
                 </Canvas>
             </Box> */}
             <Box borderRadius="xl" bg={useColorModeValue('teal', 'whiteAlpha.200')} p={3} align="center" textColor="white" mb="6" mt="6">
-                Hello, I&apos;m a front-end developer based in Croatia!
+                Hello, I&apos;m a front-end developer based in Croatia!hgjghhffg
             </Box>
             <Box display={{ md: 'flex' }}>
                 <Box flexGrow={1}>
